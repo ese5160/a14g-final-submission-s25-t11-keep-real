@@ -2,7 +2,7 @@
  * @Author: wyiwei1 wyiwei@seas.upenn.edu
  * @Date: 2025-03-25 21:15:56
  * @LastEditors: wyiwei1 wyiwei@seas.upenn.edu
- * @LastEditTime: 2025-04-30 11:50:26
+ * @LastEditTime: 2025-04-30 12:05:12
  * @FilePath: \final-project-t11-keep-real\A14G_README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -12,7 +12,7 @@
 Team Number: 11
 Team Name: Keep Real
 Team Members: Binsheng Zhang, Yiwei Wang
-GitHub Repository URL: https://github.com/ese5160/final-project-t11-keep-real.git
+GitHub Repository URL: https://ese5160.github.io/a14g-final-submission-s25-t11-keep-real/
 Description of test hardware: Win11 Desktop, SAMW25 Custom board
 ```
 
