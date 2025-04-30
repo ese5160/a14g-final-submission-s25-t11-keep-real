@@ -12,7 +12,7 @@
 Team Number: 11
 Team Name: Keep Real
 Team Members: Binsheng Zhang, Yiwei Wang
-GitHub Repository URL: https://ese5160.github.io/a14g-final-submission-s25-t11-keep-real/
+GitHub Repository URL: https://github.com/ese5160/a14g-final-submission-s25-t11-keep-real.git
 Description of test hardware: Win11 Desktop, SAMW25 Custom board
 ```
 
